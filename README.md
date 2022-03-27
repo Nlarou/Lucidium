@@ -1,5 +1,5 @@
 # ProjetAppWebReactExpress
-Final project for the final semester in the class Web Application 2 at la Cité. This project was to build a E-commerce with the technologies of my choice. This whole project was made with the Frameworks **ReactJS & Node JS** and **MYSQL** for the database.
+Final project for the final semester in the class Web Application 2 at la Cité. This project was to build a E-commerce with the technologies of my choice. This whole project was made with the Frameworks **ReactJS & Node JS** and **MYSQL** for the database. There's user management and encryption.
  
  ## The front end of my website
 ![alt text](https://github.com/Nlarou/Lucidium/blob/main/1.png?raw=true)
