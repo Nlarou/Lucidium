@@ -1,0 +1,18 @@
+.productRow {
+  padding: 5px;
+  margin: 5px;
+  position: relative;
+}
+.quantity {
+  display: inline;
+}
+#productPrice {
+  margin-right: 10px;
+  font: bold;
+  font-size: 20px;
+  font-family: "Arial Narrow Bold", sans-serif;
+}
+#containerEmpty {
+  width: 100vw;
+  height: 100vh;
+}

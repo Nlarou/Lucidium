@@ -1,0 +1,13 @@
+.card {
+  margin: auto;
+  margin-top: 5px;
+  min-width: 300px;
+  border: 2px solid grey;
+  display: inline-block;
+}
+.CategoryIcon {
+  display: inline-block;
+}
+#cardImage {
+  max-height: 400px;
+}

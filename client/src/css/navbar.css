@@ -1,0 +1,96 @@
+#searchInput {
+  border-radius: 40px;
+  border-color: black;
+  width: 25vw;
+  color: white;
+  background-color: transparent;
+}
+#searchInput:focus {
+  border-color: #ff8e05;
+}
+#searchInput:hover {
+  border-color: #ff8e05;
+}
+#btnSearch {
+  color: white;
+  font: bold;
+  border-color: black;
+  background-color: transparent;
+  margin-right: 2vw;
+  border-radius: 45px;
+  height: 37px;
+}
+#btnSearch:hover {
+  color: #ff8e05;
+  border-color: #ff8e05;
+}
+.navbar {
+  background-color: #1e262c;
+  border: black solid 1px;
+  min-width: 100%;
+}
+.navbar-dark .navbar-nav .nav-link {
+  color: white !important;
+  font: bold;
+}
+.navbar-dark .navbar-nav .nav-link:hover {
+  color: #ff8e05 !important;
+  font: bold;
+}
+.nav-item .nav-link img {
+  margin-right: 0.5vw;
+}
+.form-inline {
+  margin-top: 1vh;
+  margin-right: 2vw;
+}
+#dropdownContainer {
+  min-width: 300px;
+  height: auto;
+  max-height: 300px;
+  margin: 0 auto;
+  text-align: center;
+  overflow-y: scroll !important;
+  overflow-x: none;
+  transform: translate(144px, 14px);
+}
+#btnDelete {
+  position: absolute;
+  transform: translate(-33px, -14px);
+}
+ul.dropdown li .item {
+  display: block;
+  padding: 3px 10px;
+  margin: 3px 0;
+}
+ul.dropdown li .item:hover {
+  background-color: #f3f3f3;
+}
+ul.dropdown li .item:after {
+  visibility: hidden;
+  display: block;
+  font-size: 0;
+  content: " ";
+  clear: both;
+  height: 0;
+}
+
+ul.dropdown li .item-left {
+  float: left;
+}
+ul.dropdown li .item-left img,
+ul.dropdown li .item-left span.item-info {
+  float: left;
+}
+ul.dropdown li .item-left span.item-info {
+  margin-left: 10px;
+}
+ul.dropdown li .item-left span.item-info span {
+  display: block;
+}
+ul.dropdown li .item-right {
+  float: right;
+}
+ul.dropdown li .item-right button {
+  margin-top: 14px;
+}
