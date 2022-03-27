@@ -17,7 +17,7 @@ Final project for the final semester in the class Web Application 2 at la Cité.
 ![alt text](https://github.com/Nlarou/Lucidium/blob/main/10.png?raw=true)
 ![alt text](https://github.com/Nlarou/Lucidium/blob/main/11.png?raw=true)
 ![alt text](https://github.com/Nlarou/Lucidium/blob/main/12.png?raw=true)
-## Comfirmation from paypal
+## Confirmation from paypal
 ![alt text](https://github.com/Nlarou/Lucidium/blob/main/13.png?raw=true)
 ![alt text](https://github.com/Nlarou/Lucidium/blob/main/14.png?raw=true)
 ![alt text](https://github.com/Nlarou/Lucidium/blob/main/15.png?raw=true)
@@ -28,11 +28,14 @@ Final project for the final semester in the class Web Application 2 at la Cité.
 ![alt text](https://github.com/Nlarou/Lucidium/blob/main/19.png?raw=true)
 ![alt text](https://github.com/Nlarou/Lucidium/blob/main/20.png?raw=true)
 ![alt text](https://github.com/Nlarou/Lucidium/blob/main/21.png?raw=true)
+## Website Responsive
 ![alt text](https://github.com/Nlarou/Lucidium/blob/main/22.png?raw=true)
 ![alt text](https://github.com/Nlarou/Lucidium/blob/main/23.png?raw=true)
 ![alt text](https://github.com/Nlarou/Lucidium/blob/main/24.png?raw=true)
+## The session object & local storage
 ![alt text](https://github.com/Nlarou/Lucidium/blob/main/25.png?raw=true)
 ![alt text](https://github.com/Nlarou/Lucidium/blob/main/26.png?raw=true)
+## Sign up
 ![alt text](https://github.com/Nlarou/Lucidium/blob/main/27.png?raw=true)
 ![alt text](https://github.com/Nlarou/Lucidium/blob/main/28.png?raw=true)
 ![alt text](https://github.com/Nlarou/Lucidium/blob/main/29.png?raw=true)
