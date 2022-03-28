@@ -11,7 +11,7 @@ Final project for the final semester in the class Web Application 2 at la Cité.
 ![alt text](https://github.com/Nlarou/Lucidium/blob/main/6.png?raw=true)
 ## To checkout we need a connection to a account
 ![alt text](https://github.com/Nlarou/Lucidium/blob/main/7.png?raw=true)
-## Payement page
+## Payment page
 ![alt text](https://github.com/Nlarou/Lucidium/blob/main/8.png?raw=true)
 ![alt text](https://github.com/Nlarou/Lucidium/blob/main/9.png?raw=true)
 ![alt text](https://github.com/Nlarou/Lucidium/blob/main/10.png?raw=true)
@@ -28,7 +28,7 @@ Final project for the final semester in the class Web Application 2 at la Cité.
 ![alt text](https://github.com/Nlarou/Lucidium/blob/main/19.png?raw=true)
 ![alt text](https://github.com/Nlarou/Lucidium/blob/main/20.png?raw=true)
 ![alt text](https://github.com/Nlarou/Lucidium/blob/main/21.png?raw=true)
-## Website Responsive
+## Website responsiveness
 ![alt text](https://github.com/Nlarou/Lucidium/blob/main/22.png?raw=true)
 ![alt text](https://github.com/Nlarou/Lucidium/blob/main/23.png?raw=true)
 ![alt text](https://github.com/Nlarou/Lucidium/blob/main/24.png?raw=true)
