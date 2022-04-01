@@ -17,7 +17,7 @@ var con = mysql.createConnection({
 const TWO_HOUR = 1000 * 60 * 60 * 2;
 const SESSION_NAME = "lucid";
 const SESSION_LIFETIME = TWO_HOUR;
-const SECRET = "N4th4ni3lIsTh3B3stDud3";
+const SECRET = "Banana555125545";
 //Private key et notre key public pour l'encryption.
 const privateKey =
   "MIICXgIBAAKBgQCTDYtRGhrIwXy4FxtM6OxjND9ABiEIDqLYmVjUxUbfyFaJ7Ff5" +
